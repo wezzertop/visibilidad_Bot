@@ -17,7 +17,7 @@ Puedes restringir los bots para que solo aparezcan a usuarios registrados, a cie
         'views/im_livechat_channel_views.xml',
         'views/bot_menus.xml',
     ],
-    'images': ['static/description/icon.png'],
+    'images': ['static/description/banner.png', 'static/description/icon.png'],
     'price': 15.00,
     'currency': 'USD',
     'installable': True,
