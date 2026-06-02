@@ -1,6 +1,6 @@
 {
     'name': 'Visibilidad de Bots (Livechat)',
-    'version': '18.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Website/Livechat',
     'summary': 'Controla la visibilidad de los canales de Livechat (bots) para usuarios autenticados y no autenticados.',
     'description': """
