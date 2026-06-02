@@ -1,15 +1,15 @@
 {
-    'name': 'Visibilidad de Bots (Livechat)',
+    'name': 'Bot Visibility (Livechat)',
     'version': '17.0.1.0.0',
     'category': 'Website/Livechat',
-    'summary': 'Controla la visibilidad de los canales de Livechat (bots) para usuarios autenticados y no autenticados.',
+    'summary': 'Controls the visibility of Livechat channels (bots) for authenticated and unauthenticated users.',
     'description': """
-Visibilidad de Bots (Livechat)
+Bot Visibility (Livechat)
 ==============================
-En Odoo Community, los bots de chat aparecen por defecto en las páginas sin permitirte limitarlos a ciertos perfiles de usuario.
-Este módulo soluciona ese problema permitiéndote configurar la visibilidad de tus canales de Livechat y Bots. 
-Puedes restringir los bots para que solo aparezcan a usuarios registrados, a ciertos perfiles específicos o mantenerlos públicos.
-¡Toma el control de tu Livechat!
+In Odoo Community, chat bots appear by default on pages without allowing you to limit them to certain user profiles.
+This module solves that problem by allowing you to configure the visibility of your Livechat channels and Bots.
+You can restrict bots so that they only appear to registered users, specific profiles, or keep them public.
+Take control of your Livechat!
     """,
     'author': 'JDDM',
     'depends': ['im_livechat'],

@@ -1,28 +1,28 @@
-# Visibilidad de Bots (Livechat) para Odoo
+# Bot Visibility (Livechat) for Odoo
 
-Este módulo soluciona una limitación clave en Odoo Community (v17 y v18): por defecto, los bots de chat y canales de Livechat son públicos y aparecen para todos los visitantes del sitio web.
+This module solves a key limitation in Odoo Community (v17 and v18): by default, chat bots and Livechat channels are public and appear for all website visitors.
 
-Con **Visibilidad de Bots**, puedes agregar reglas de acceso y visibilidad a tus canales de Livechat.
+With **Bot Visibility**, you can add access and visibility rules to your Livechat channels.
 
-## Características Principales
+## Main Features
 
-1. **Ocultar a Visitantes Anónimos:** Muestra el bot únicamente a los usuarios que hayan iniciado sesión en el portal o sistema.
-2. **Restricción por Perfiles:** Configura grupos de usuarios específicos que pueden ver el bot (Ej. solo empleados, solo administradores).
-3. **Optimización del Soporte:** Evita que tu equipo de soporte pierda tiempo con chats de visitantes no deseados o anónimos.
+1. **Hide from Anonymous Visitors:** Show the bot only to users who have logged into the portal or system.
+2. **Profile Restriction:** Configure specific user groups that can see the bot (e.g., only employees, only administrators).
+3. **Support Optimization:** Prevent your support team from wasting time with unwanted or anonymous visitor chats.
 
-## Instalación
+## Installation
 
-1. Descarga el módulo y colócalo en tu directorio de `addons`.
-2. Activa el modo desarrollador en Odoo y actualiza la lista de aplicaciones.
-3. Busca `Visibilidad de Bots (Livechat)` e instálalo.
+1. Download the module and place it in your `addons` directory.
+2. Activate developer mode in Odoo and update the app list.
+3. Search for `Bot Visibility (Livechat)` and install it.
 
-## Uso
+## Usage
 
-1. Ve a la aplicación **Livechat**.
-2. Abre la configuración del canal o bot que deseas modificar.
-3. Busca la nueva pestaña o campo de **Visibilidad**.
-4. Selecciona el tipo de visibilidad deseada y los grupos permitidos.
-5. Guarda los cambios.
+1. Go to the **Livechat** application.
+2. Open the configuration of the channel or bot you want to modify.
+3. Look for the new **Visibility** tab or field.
+4. Select the desired visibility type and allowed groups.
+5. Save the changes.
 
 ---
-**Desarrollado por:** JDDM
+**Developed by:** JDDM
