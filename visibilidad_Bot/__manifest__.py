@@ -18,7 +18,7 @@ Take control of your Livechat!
         'views/bot_menus.xml',
     ],
     'images': ['static/description/banner.gif', 'static/description/icon.png'],
-    'price': 60.00,
+    'price': 20.00,
     'currency': 'USD',
     'installable': True,
     'application': True,
