@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <!-- Acción para abrir los canales de Livechat -->
+    <record id="action_visibilidad_bot_channels" model="ir.actions.act_window">
+        <field name="name">Gestor de Bots</field>
+        <field name="res_model">im_livechat.channel</field>
+        <field name="view_mode">list,form</field>
+    </record>
+
+    <!-- Menú Principal (App) -->
+    <menuitem id="menu_visibilidad_bot_root" 
+              name="Gestor de Bots" 
+              sequence="50" 
+              web_icon="visibilidad_Bot,static/description/icon.png"/>
+
+    <!-- Submenú -->
+    <menuitem id="menu_visibilidad_bot_channels" 
+              name="Mis Bots" 
+              parent="menu_visibilidad_bot_root" 
+              action="action_visibilidad_bot_channels" 
+              sequence="10"/>
+</odoo>
